@@ -1,0 +1,50 @@
+h1 {
+    color: skyblue;
+    background-color: red;
+}
+
+h2 {
+    color: #878787;
+    background-color: orange;
+}
+
+h3 {
+    color: rgb(80, 120, 200)
+    background-color: 90, 120, 30;
+}
+
+h4 {
+    color: rgba(98, 31, 66, 24);
+    background-color: green;
+}
+
+h5 {
+    color: #555;
+    background-color: blue;
+}
+
+h6 {
+    color: #67b2f150
+    background-color: indigo;
+}
+
+p {
+    color: #abc8
+    background-color: #a5c8;
+}
+
+.one{
+    color: hotpink;
+}
+
+.two{
+    background-color: ;
+}
+
+.three{
+    background-color: peachpuff;
+}
+
+li:nth-of-type(2n + 1) {
+    border: 5px solid green;
+}
